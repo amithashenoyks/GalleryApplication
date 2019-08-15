@@ -40,6 +40,7 @@
                 </asp:DropDownList>
             </div>
             <div>
+                <p>New changes to git repo</p>
                 <asp:Button ID="btnGallery" runat="server" Text="Go To Gallery" Style="margin-left: 100px; margin-top: 50px;" OnClick="btnGallery_Click" />
                 <input id="btnGetTime" type="button" value="Show Current Time" onclick="ShowCurrentTime()" />
             </div>
